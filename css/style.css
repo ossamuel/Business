@@ -136,7 +136,7 @@ h1 {
 .belowline {
   width: 52%;
 }
-.current {
+#current {
   margin-left: 40px;
 }
 .main-nav a {
@@ -147,9 +147,10 @@ h1 {
   padding-bottom: 0.5rem;
   transition: border-color 0.5s;
 }
-.main-nav a.current {
+#current {
   border-color: #c53779;
 }
+
 .welcome-stage {
   padding-top: 40px;
   line-height: 2;
